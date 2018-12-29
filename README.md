@@ -3,9 +3,9 @@ Cryptocurrency live social price tracking framework
 Uses cryptocompare api https://www.cryptocompare.com/
 
 Requirements: 
-  Python3+
-  requests
-  termcolor
+  Python3+,
+  requests,
+  termcolor,
   pyfiglet
   
   
