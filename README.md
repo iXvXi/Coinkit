@@ -10,3 +10,6 @@ Requirements:
   
   
 Changes in values are represented by green and red indicators. 
+
+
+This script is currently not being worked on.
